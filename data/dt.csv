@@ -1,0 +1,2 @@
+eth_src_adr,eth_dst_adr,ip_version,ip_hdr_len,ip_identification,ip_hdr_len,ip_flags,ip_ttl,ip_proto,ip_checksum,ip_checksum_stt,ip_src,ip_dst
+00:08:02:45:ec:37,00:30:48:f8:de:82,4,20,1266,20,0,128,17,55683,2,172.16.3.27,172.16.1.1
