@@ -4,3 +4,4 @@ output
 *.txt
 *.npy
 data/CICID/*.npy
+.vscode
